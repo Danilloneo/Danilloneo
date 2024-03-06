@@ -6,4 +6,4 @@ Neste primeiro momento quero me concentrar no front-end, qual será minha porta 
 🌱 Hoje sou Analista de Sistemas Líder em Suporte na Empresa Litoral Postos na Vertical de Postos de Combustíveis.
 Mas trabalho meio período e disponho de tempo para um segundo emprego, e dependendo da oferta, passando a ser o príncipal.
 
-<img src='./html5.png' style='heigth:10px;'> <img src='./css.png'><img src='./js.png'><img src='./sass.png'><img src='./less.png' style='heigth:10px;'>
+<img src='./html5.png' style='width:10px;'> <img src='./css.png'><img src='./js.png'><img src='./sass.png'><img src='./less.png' style='heigth:10px;'>
