@@ -7,5 +7,5 @@ Neste primeiro momento quero me concentrar no front-end, qual será minha porta 
 Mas trabalho meio período e disponho de tempo para um segundo emprego, e dependendo da oferta, passando a ser o príncipal.
 
 
-<img src='./html5.png' style='width:40px; height:40px; marin-right:10px;'/> <img src='./css.png' style='width:40px; height:40px; padding-right:10px'/><img src='./js.png' style='width:40px; height:40px;  padding-right:10px;'/><img src='./sass.png' style='width:40px; height:40px; padding-right:10px;'/><img src='./less.png' style='width:40px; height:40px;'/>
+<img src='./html5.png' style='width:40px; height:40px;'/>  <img src='./css.png' style='width:40px; height:40px;'/>  <img src='./js.png' style='width:40px; height:40px;'/>  <img src='./sass.png' style='width:40px; height:40px;'/>  <img src='./less.png' style='width:40px; height:40px;'/>
 
